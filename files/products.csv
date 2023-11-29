@@ -1,0 +1,21 @@
+-- Estrutura: id,name,price,quantity
+1,mouse,500,100
+2,teclado,200.3,150
+3,mousepad,100,200
+4,monitor,1200,20
+5,memoria-ram,250,300
+6,processador,700,50
+7,microfone,20,15
+8,headphone,450.35,150
+9,placa-de-video,3500.2,30
+10,ssd,150.5,25
+11,caneca,500,100
+12,alexa,200.3,150
+13,copos,100,200
+14,notebook,1200,20
+15,pc-gamer,250,300
+16,webcam,700,50
+17,cameras,20,15
+18,cabo-rede,10,150
+19,cabo-usb,10.2,30
+20,HD,60.25,25
